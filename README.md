@@ -8,6 +8,4 @@ Using ```Tableau```, examined the fundamental concepts of data visualization and
 
 By the end of the course prepared and imported data into ```Tableau``` and explain the relationship between `data analytics` and `data visualization`.
 
-![Certificate](https://coursera.org/share/e48f22fb77e0261d37869cd0b9245084)
-
-[Fundamentals of Visualization with Tableau.pdf](https://github.com/addy100/Fundamentals-of-Visualization-with-Tableau/files/9998265/Fundamentals.of.Visualization.with.Tableau.pdf)
+![Coursera Fundamentals of Visualization with Tableau University of California, Davis](https://user-images.githubusercontent.com/72308696/201545996-2380c2aa-5d9f-44e9-834a-625179dba296.jpg)
